@@ -6,10 +6,7 @@
 - [Features](#features)
 - [User-Story](#user-story)
 - [Acceptance-Criteria](#acceptance-criteria)
-- [Usage](#usage)
-- [Webpage-Screenshots](#webpage-screenshots)
-- [Github-Link](#github-link)
-- [Deployed-Link](#deployed-link)
+- [Github-Links](#github-links)
 - [Contributor](#contributor)
 
 ### Description
@@ -28,9 +25,9 @@ This application was built using the MERN stack that includes the following:
 
 ### User Story
 
-AS AN avid reader
-I WANT to search for new books to read
-SO THAT I can keep a list of books to purchase
+- AS AN avid reader
+- I WANT to search for new books to read
+- SO THAT I can keep a list of books to purchase
 
 ### Acceptance Criteria
 
@@ -65,15 +62,9 @@ GIVEN a book search engine:
 - WHEN I click on the Logout button
   THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 
-### Usage
-
-### Webpage Screenshots
-
 ### GitHub Link
 
 https://github.com/jlcunningham2101/book-search-engine
-
-### Heroku Link
 
 ### Contributor
 
