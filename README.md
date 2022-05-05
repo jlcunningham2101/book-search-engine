@@ -65,6 +65,8 @@ GIVEN a book search engine:
 ### GitHub Link
 
 https://github.com/jlcunningham2101/book-search-engine
+https://github.com/jlcunningham2101/book-search-engine.git
+https://jlcunningham2101.github.io/book-search-engine/
 
 ### Contributor
 
